@@ -191,6 +191,11 @@ Findings by Category:
 Overall Risk Level: MEDIUM
 ```
 
+![image](https://github.com/user-attachments/assets/a3adfe99-b6be-4e6d-b3be-e57df51c4cec)
+
+![image](https://github.com/user-attachments/assets/cdfc8c85-8cff-4c18-afde-b49831eb8d79)
+
+
 ## 🤝 Contributing
 We welcome contributions! Please submit:
 - Bug reports and feature requests
