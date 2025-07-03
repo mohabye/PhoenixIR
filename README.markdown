@@ -42,7 +42,7 @@ A powerful, Python-based tool designed for incident response and threat hunting 
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linuxir.git
+   git clone https://github.com/mohabye/PhoenixIR/blob/main/Linuxir.py
    cd linuxir
    ```
 2. Make the script executable:
@@ -197,15 +197,3 @@ We welcome contributions! Please submit:
 - Pull requests with improvements
 - Documentation enhancements
 - Additional analysis modules
-
-## 📄 License
-Licensed under the MIT License. See the LICENSE file for details.
-
-## 🛡️ Disclaimer
-This tool is intended for legitimate security purposes only. Users are responsible for ensuring compliance with applicable laws and regulations. The authors assume no liability for misuse.
-
-## 📞 Support
-For questions, issues, or feature requests, please open an issue on GitHub or contact the maintainers.
-
-**Version**: 2.0  
-**Last Updated**: 2024
